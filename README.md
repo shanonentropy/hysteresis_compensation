@@ -1,0 +1,2 @@
+# hysteresis_compensation
+NOTE: dataset and EDA will be uploaded after werb approval. In this repo we have deposited the exploratory data analysis report and the underlying dataset used to explore the thermal and temporal response of commercially available Fiber Bragg Sensors.  Data analysis was carried out in Python using openly available packages (pandas, scikit-learn, scipy, matplotlib and seaborn) without any modifications 
